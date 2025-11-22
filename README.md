@@ -16,5 +16,5 @@ This project demonstrates the use of loops, conditional statements, user input h
 
 ---
 
-## 📂 Project Structure
+
 
